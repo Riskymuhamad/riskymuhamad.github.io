@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
   }
+
+.container{
+  margin-top: 200px;
+} */
 #profile .card{
   border-radius: 0%;
   box-shadow: 5px 5px 15px #e74c3c;
